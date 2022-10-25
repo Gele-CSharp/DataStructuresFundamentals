@@ -1,0 +1,10 @@
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.deps.json
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.dll
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.pdb
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.AssemblyReference.cache
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfoInputs.cache
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfo.cs
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.CoreCompileInputs.cache
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.dll
+E:\Downloads\SoftUni\Data_Structures\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.pdb

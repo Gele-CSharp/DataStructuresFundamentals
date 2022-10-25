@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjyzoM+LN9Xv3mPU6ABg+s94EZbh9+DQE2TXAj5eUHx7tdAh0ll/IluFTJUCtDwTxxCckqn24DbIxuPjRJ/azw==",
+  "success": true,
+  "projectFilePath": "E:\\Downloads\\SoftUni\\Data_Structures\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diodi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diodi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
